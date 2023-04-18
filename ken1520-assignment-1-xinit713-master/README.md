@@ -1,9 +1,9 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=10895562&assignment_repo_type=AssignmentRepo)
 # KEN1520 Assignment 1
 
-* Your Student ID: i1234567
-* First Name: Albert
-* Last Name: Einstein
+* Your Student ID: i6329847
+* First Name: Mateusz
+* Last Name: Zboś
 
 ## How to Hand In Your Assignment
 
